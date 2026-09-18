@@ -1,0 +1,7 @@
+target/
+.idea/
+*.iml
+
+# saidas geradas por ConvergenceStudyRunner
+*.csv
+*.png
